@@ -1,0 +1,7 @@
+{
+  "version": 0,
+  "require": { "cockpit": "137" },
+  "menu": {
+    "index": { "label": "AD Users & Groups", "order": 5 }
+  }
+}
